@@ -1,0 +1,14 @@
+langchain
+langchain_openai
+langchain_core
+openai
+streamlit
+python-dotenv
+fastapi
+langserve
+langchain_community
+uvicorn
+sse_starlette
+pydantic==2.7.4
+requests
+langchain-ollama
